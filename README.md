@@ -8,7 +8,7 @@ This repository hosts preliminary and foundational materials for the project.
 ## Contributors
 - 许英豪
 - 李晓东
-- 李辉老师
+- 李辉
 - 唐宇
 - 纪荣嵘
 - 林宇
